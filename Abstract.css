@@ -371,11 +371,13 @@
 
 .u-section-2 .u-text-1 {
   text-shadow: 2px -2px 8px rgba(128,128,128,1);
+  font-size: 2.25rem;
   margin: 0 572px 0 0;
 }
 
 .u-section-2 .u-text-2 {
   font-weight: 700;
+  font-size: 1rem;
   margin: 48px 572px 0 0;
 }
 
@@ -416,13 +418,11 @@
 
   .u-section-2 .u-text-1 {
     margin-right: 483px;
-    font-size: 2.25rem;
   }
 
   .u-section-2 .u-text-2 {
     margin-top: 47px;
     margin-right: 483px;
-    font-size: 1rem;
   }
 
   .u-section-2 .u-image-1 {
@@ -588,5 +588,210 @@
 
   .u-section-3 .u-group-1 {
     width: 340px;
+  }
+} .u-section-4 {
+  background-image: none;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 709px;
+}
+
+.u-section-4 .u-shape-1 {
+  width: 514px;
+  height: 514px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 1;
+  margin: 41px auto 0 75px;
+}
+
+.u-section-4 .u-image-1 {
+  width: 449px;
+  height: 449px;
+  background-image: url("images/axelborg-towers-modern-architecture-6544.jpg");
+  background-position: 50% 50%;
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: -514px 102px 0 auto;
+}
+
+.u-section-4 .u-group-1 {
+  width: 476px;
+  height: 476px;
+  --animation-custom_in-translate_x: 50px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 0.3;
+  margin: -283px auto 26px 287px;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 0 30px;
+}
+
+.u-section-4 .u-text-1 {
+  font-weight: 700;
+  font-size: 3rem;
+  text-shadow: 0px -2px 8px rgba(128,128,128,1);
+  margin: 91px 0 0 auto;
+}
+
+.u-section-4 .u-text-2 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  text-shadow: 0px -2px 8px rgba(128,128,128,1);
+  margin: 36px 10px 0 53px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-shape-1 {
+    margin-top: 335px;
+    margin-right: 68px;
+  }
+
+  .u-section-4 .u-image-1 {
+    margin-top: -996px;
+  }
+
+  .u-section-4 .u-group-1 {
+    width: 661px;
+    height: 661px;
+  }
+
+  .u-section-4 .u-text-1 {
+    font-size: 2.875rem;
+    margin-top: 0;
+  }
+
+  .u-section-4 .u-text-2 {
+    width: 469px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 595px;
+  }
+
+  .u-section-4 .u-shape-1 {
+    width: 393px;
+    height: 393px;
+    margin-top: 23px;
+    margin-right: 56px;
+    margin-left: auto;
+  }
+
+  .u-section-4 .u-image-1 {
+    width: 342px;
+    height: 342px;
+    margin-top: -393px;
+    margin-right: auto;
+    margin-left: 18px;
+  }
+
+  .u-section-4 .u-group-1 {
+    width: 357px;
+    height: 357px;
+    margin-top: -150px;
+    margin-left: auto;
+    margin-bottom: 23px;
+  }
+
+  .u-section-4 .u-text-1 {
+    font-size: 2.625rem;
+    width: auto;
+    margin-top: 36px;
+    margin-left: 0;
+  }
+
+  .u-section-4 .u-text-2 {
+    width: auto;
+    font-size: 1.125rem;
+    margin-top: 1px;
+    margin-right: 0;
+    margin-left: 13px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 1153px;
+  }
+
+  .u-section-4 .u-shape-1 {
+    height: 340px;
+    width: 340px;
+    margin-right: auto;
+    margin-left: 26px;
+  }
+
+  .u-section-4 .u-group-1 {
+    width: 676px;
+    height: 676px;
+    margin-left: -68px;
+    margin-right: -68px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-text-2 {
+    width: 491px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 482px;
+  }
+
+  .u-section-4 .u-shape-1 {
+    height: 233px;
+    width: 233px;
+    margin-top: 13px;
+    margin-right: 0;
+    margin-left: auto;
+  }
+
+  .u-section-4 .u-image-1 {
+    height: 228px;
+    width: 228px;
+    margin-top: -233px;
+    margin-left: -11px;
+  }
+
+  .u-section-4 .u-group-1 {
+    width: 325px;
+    height: 325px;
+    margin: -97px auto 13px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .u-section-4 .u-text-1 {
+    font-size: 1.875rem;
+    margin-top: 72px;
+    margin-left: 8px;
+  }
+
+  .u-section-4 .u-text-2 {
+    width: auto;
+    margin-top: 30px;
+    margin-left: 8px;
+    margin-right: 8px;
   }
 }
