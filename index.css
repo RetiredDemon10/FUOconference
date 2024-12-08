@@ -3,6 +3,14 @@
   bottom: 10px;
 }
 
+.u-image {
+  display: block;
+  margin: 10px auto 0;
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px; /* Optional for rounded edges */
+}
+
 .u-block-eff2-3 {
   position: absolute;
   left: 0;
